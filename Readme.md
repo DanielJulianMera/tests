@@ -37,3 +37,14 @@ LIMIT 11
 | San Jose      | 1026919    | 240.33| 14.99 | 3.04 | 9.99  | 103.00| 13.71 | 385.06               |
 | Austin        | 931840     | 201.94| 2.54  | 0.63 | 1.99  | 69.38 | 5.27  | 281.75               |
 
+## Conclusiones
+
+1. Nueva York y Chicago tienen las mayores concentraciones totales de contaminantes entre las ciudades más pobladas, sugiriendo una correlación entre alta población y alta contaminación del aire en estas ciudades.
+
+2. Los Ángeles también muestra una alta concentración total de contaminantes, lo que refuerza la tendencia de que las ciudades más grandes tienden a tener mayores problemas de calidad del aire.
+
+3. Houston y Filadelfia tienen poblaciones relativamente grandes, pero presentan concentraciones totales de contaminantes más bajas en comparación con Nueva York y Chicago, indicando que no todas las ciudades con grandes poblaciones tienen necesariamente la peor calidad del aire.
+
+4. San Antonio, San Diego, Phoenix, Dallas, y San Jose tienen concentraciones totales de contaminantes que varían, pero en general son menores en comparación con las ciudades más grandes como Nueva York y Los Ángeles.
+
+En resumen, aunque hay una tendencia general a que las ciudades más pobladas tengan mayores concentraciones de contaminantes del aire, no es una regla estricta. Otros factores además de la población juegan un papel significativo en la calidad del aire de una ciudad.
