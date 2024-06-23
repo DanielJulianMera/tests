@@ -19,6 +19,7 @@ FROM demografia d
 JOIN calidad_aire ca ON d.City = ca.City
 ORDER BY d.[Total Population] DESC
 LIMIT 11
+```
 
 ## Resultados
 
